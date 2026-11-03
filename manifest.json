@@ -3,18 +3,19 @@
   "name": "AutoPulse AI Telemetry",
   "icons": [
     {
-      "src": "https://johnlenardbambe-hub.github.io/AutoPulse/icon.png",
+      "src": "https://placehold.co/192x192/0f172a/38bdf8?text=AP",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://johnlenardbambe-hub.github.io/AutoPulse/icon.png",
+      "src": "https://placehold.co/512x512/0f172a/38bdf8?text=AP",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": "/AutoPulse/",
+  "scope": "/AutoPulse/",
+  "display": "standalone",
   "background_color": "#0f172a",
-  "theme_color": "#0f172a",
-  "display": "standalone"
+  "theme_color": "#0f172a"
 }
